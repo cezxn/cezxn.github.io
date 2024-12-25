@@ -12,7 +12,12 @@ https://ibb.co/bmMTp2W https://i.ibb.co/g9LNsPj/triggers.png
 
 */
 /*BEGIN PS4 Controller Styling*/
-.controller.ds4 {
+body { 
+    background-color: #000000; 
+    background-color: RGBA(0, 0, 0, 0); 
+    margin: 0 auto; 
+    overflow: hidden; 
+} .controller.ds4 {
     background: url(https://i.ibb.co/nwJ1xrB/base.png);
     height: 598px;
     width: 806px;
